@@ -8,7 +8,7 @@ VALUES
     ('Lead Salesman', 110000, 2),
     ('Lead Marketer', 120000, 4),
     ('Senior Engineer', 130000, 1),
-    ('Junior Engineer', 110000, 1)
+    ('Junior Engineer', 110000, 1),
     ('Salesperson', 85000, 2),
     ('Accountant', 90000, 3),
     ('Marketing Rep', 95000, 4);
